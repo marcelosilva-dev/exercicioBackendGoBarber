@@ -5,7 +5,6 @@ import Transaction from '../models/Transaction';
 
 import TransactionRepository from '../repositories/TransactionsRepository';
 import Category from '../models/Category';
-import TransactionsRepository from '../repositories/TransactionsRepository';
 
 interface CSVtransaction {
   title: string;
